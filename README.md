@@ -1,5 +1,7 @@
 # Password-Generator
 
+[Password Generator](https://migsrkrd.github.io/Password-Generator/)
+
 ## Description
 The Password Generator helps you create a password given specific criteria that it asks you. It asks you how many characters you would like, as well as if there should be any uppercase, lowercase, numbers, or special characters to include. After going through all options, the website will print out your newly generated random password in its display box.
 <br>

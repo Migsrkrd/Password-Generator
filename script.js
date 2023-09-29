@@ -41,7 +41,9 @@ for(var i=0;i<specialCharacterOptions.length;i++){
    numbers = confirm ("Would you like numbers in your password?");
    } else {
     alert("Invalid Response, please try again");
-    validate();
+    return;
+
+
   }
   totalArray = [];
   if(upperCase){
